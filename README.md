@@ -10,7 +10,7 @@ Working example at https://jeremybohannon.github.io/stratifyd-hackathon-2016/
 - Signals by Stratifyd
 - Leafleft JS
 
-<a href="https://nickbreaton.github.io/stratifyd-hackathon-2016/">
+<a href="https://jeremybohannon.github.io/stratifyd-hackathon-2016/">
   <image src="https://raw.githubusercontent.com/nickbreaton/stratifyd-hackathon-2016/master/.github/example.png" />
 </a>
 
